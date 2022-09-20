@@ -1,1 +1,3 @@
 # atividadesDeLogica
+
+este é o espaço para guardar as atividades....
